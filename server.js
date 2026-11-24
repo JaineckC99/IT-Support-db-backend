@@ -42,7 +42,7 @@ function guidePage(baseUrl) {
 </head>
 <body>
 <h1>IT Support Desk API</h1>
-<p><strong>Student number:</strong> YOUR-STUDENT-NUMBER<br>
+<p><strong>Student number:</strong> 202507459<br>
 <strong>Course:</strong> ICT251, Activity 7 (Backend Development), Mulungushi University</p>
 <p>This API stores and manages computer support requests (network, software and hardware problems) for the IT Support Desk system.</p>
 
